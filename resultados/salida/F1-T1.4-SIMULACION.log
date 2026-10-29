@@ -1,0 +1,211 @@
+Loading net-file from 'cuenca_ciudad.net.xml' ... done (369ms).
+Warning: At actuated tlLogic '1577474504', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '347404204', actuated phase 0 has no controlling detector.
+Warning: Unused states in tlLogic '3529397988', program '0' in phase 0 after tl-index 2
+Warning: At actuated tlLogic '3529397988', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '413678731', actuated phase 0 has no controlling detector.
+Warning: At actuated tlLogic '413678753', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '4173813189', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '4183242491', program '0' in phase 0 after tl-index 4
+Warning: At actuated tlLogic '4183242491', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '419724288', program '0' in phase 0 after tl-index 4
+Warning: At actuated tlLogic '419724288', actuated phase 4 has no controlling detector.
+Warning: Unused states in tlLogic '419724292', program '0' in phase 0 after tl-index 7
+Warning: At actuated tlLogic '419724292', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '421919630', program '0' in phase 0 after tl-index 2
+Warning: At actuated tlLogic '421919630', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '473195047', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '524331433', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '524356189', program '0' in phase 0 after tl-index 4
+Warning: At actuated tlLogic '524356189', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '524356210', actuated phase 0 has no controlling detector.
+Warning: At actuated tlLogic '529965540', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '577263115', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '577263240', actuated phase 0 has no controlling detector.
+Warning: Unused states in tlLogic '577263297', program '0' in phase 0 after tl-index 6
+Warning: At actuated tlLogic '577263297', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '577263302', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '577628730', actuated phase 0 has no controlling detector.
+Warning: At actuated tlLogic '577628730', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic '589655753', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '592657904', actuated phase 0 has no controlling detector.
+Warning: At actuated tlLogic '592657905', actuated phase 0 has no controlling detector.
+Warning: Unused states in tlLogic '601481779', program '0' in phase 0 after tl-index 3
+Warning: At actuated tlLogic '601481938', actuated phase 4 has no controlling detector.
+Warning: Unused states in tlLogic '601481956', program '0' in phase 0 after tl-index 7
+Warning: At actuated tlLogic '611890047', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '611890060', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '616626429', program '0' in phase 0 after tl-index 5
+Warning: At actuated tlLogic '616626429', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '616778732', program '0' in phase 0 after tl-index 11
+Warning: At actuated tlLogic '616778732', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '616778738', program '0' in phase 0 after tl-index 11
+Warning: At actuated tlLogic '616778738', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '619884344', program '0' in phase 0 after tl-index 2
+Warning: At actuated tlLogic '619884344', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '620567841', program '0' in phase 0 after tl-index 8
+Warning: At actuated tlLogic '620567841', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '620567841', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic '620567985', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '630640258', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '634933126', program '0' in phase 0 after tl-index 7
+Warning: At actuated tlLogic '643421289', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '643421497', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '742549695', program '0' in phase 0 after tl-index 11
+Warning: At actuated tlLogic '742549695', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '742549695', actuated phase 6 has no controlling detector.
+Warning: At actuated tlLogic '766908551', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '894375241', program '0' in phase 0 after tl-index 7
+Warning: At actuated tlLogic '894375241', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic '964818411', program '0' in phase 0 after tl-index 11
+Warning: At actuated tlLogic '964818411', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '964818411', actuated phase 6 has no controlling detector.
+Warning: Unused states in tlLogic '964818447', program '0' in phase 0 after tl-index 11
+Warning: At actuated tlLogic '964818447', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '977468155', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_10164198562_4010207291_5243882165_620568140', actuated phase 3 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_10960669243_10960669244_4962856492', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_11000906281_3909495138_4949103849', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_11001058058_11001058059_4025094250_5166528635_939896709', linkIndex 11 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_11001058058_11001058059_4025094250_5166528635_939896709', linkIndex 12 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_11001058058_11001058059_4025094250_5166528635_939896709', linkIndex 13 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_1183071446_8707229455', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_1185994540_3066718664', actuated phase 4 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_1185994553_1566365676', program '0' in phase 0 after tl-index 12
+Warning: At actuated tlLogic 'cluster_1185994553_1566365676', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_1314751004_616626342', actuated phase 7 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_1329153660_616265417', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_1566649294_9851226258_9881772069', program '0' in phase 0 after tl-index 10
+Warning: At actuated tlLogic 'cluster_1566649294_9851226258_9881772069', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_1566649294_9851226258_9881772069', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_3052795931_4072272354_4072272355_630651059_#1more', actuated phase 6 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_3058169460_878842917', program '0' in phase 0 after tl-index 4
+Warning: At actuated tlLogic 'cluster_3058169460_878842917', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_3067409068_3086962113_4083618273_4173827179_#2more', program '0' in phase 0 after tl-index 6
+Warning: At actuated tlLogic 'cluster_3067409068_3086962113_4083618273_4173827179_#2more', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_3086977237_524289203', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_3098142045_525697084', program '0' in phase 0 after tl-index 4
+Warning: At actuated tlLogic 'cluster_3098142045_525697084', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_3170817405_473194792', program '0' in phase 0 after tl-index 4
+Warning: At actuated tlLogic 'cluster_3170817405_473194792', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_321424690_499289094', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_338401573_493946891', program '0' in phase 0 after tl-index 10
+Warning: At actuated tlLogic 'cluster_338401573_493946891', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_338401573_493946891', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_338401776_3572050610_525696973', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_338401776_3572050610_525696973', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_349333524_524272366', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_3833191025_3833191028', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_413678734_616756982', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_421919659_473536100', linkIndex 13 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_421919659_473536100', linkIndex 14 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_421919659_473536100', linkIndex 15 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_453731129_619884338', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_4690757323_620528627', actuated phase 6 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_473195015_620719692', program '0' in phase 0 after tl-index 13
+Warning: At actuated tlLogic 'cluster_473195015_620719692', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_473536042_617037829', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_473536096_616753166', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_4913080725_7426923494', program '0' in phase 0 after tl-index 9
+Warning: Unused states in tlLogic 'cluster_5029145758_5029170846', program '0' in phase 0 after tl-index 13
+Warning: Unused states in tlLogic 'cluster_524356354_742549633', program '0' in phase 0 after tl-index 9
+Warning: At actuated tlLogic 'cluster_524356354_742549633', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_524356354_742549633', actuated phase 4 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_524356382_742549696', program '0' in phase 0 after tl-index 10
+Warning: At actuated tlLogic 'cluster_524356382_742549696', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_524356382_742549696', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_524356384_742549722', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_525512808_742549621', program '0' in phase 0 after tl-index 13
+Warning: At actuated tlLogic 'cluster_525512808_742549621', actuated phase 3 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_525697104_742549627', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_5462901637_5462901638', program '0' in phase 0 after tl-index 9
+Warning: At actuated tlLogic 'cluster_5462901637_5462901638', actuated phase 5 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_577263247_577263248', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_577263290_577263291', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_577263290_577263291', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_577263325_577263327', actuated phase 6 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_577717232_577717263_620528675', linkIndex 1 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_577717232_577717263_620528675', linkIndex 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_589655707_964667500', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_589655774_589655777_620528527', program '0' in phase 0 after tl-index 16
+Warning: At actuated tlLogic 'cluster_589655774_589655777_620528527', actuated phase 3 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_601481873_611864053', program '0' in phase 0 after tl-index 5
+Warning: At actuated tlLogic 'cluster_601481873_611864053', actuated phase 3 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_612603586_616235238', program '0' in phase 0 after tl-index 12
+Warning: At actuated tlLogic 'cluster_612603586_616235238', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_616626455_639977431', program '0' in phase 0 after tl-index 10
+Warning: At actuated tlLogic 'cluster_616626455_639977431', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_616626455_639977431', actuated phase 4 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_616778761_616778762', program '0' in phase 0 after tl-index 10
+Warning: At actuated tlLogic 'cluster_616778761_616778762', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_616778761_616778762', actuated phase 4 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_616778810_620568027_620568029', program '0' in phase 0 after tl-index 14
+Warning: At actuated tlLogic 'cluster_616778810_620568027_620568029', actuated phase 3 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_616778810_620568027_620568029', actuated phase 6 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_620540199_620673354', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_620567747_630651173_8707356376', program '0' in phase 0 after tl-index 15
+Warning: At actuated tlLogic 'cluster_620567747_630651173_8707356376', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_620567747_630651173_8707356376', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_620567747_630651173_8707356376', actuated phase 7 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_643353727_766590951', linkIndex 6 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_643353727_766590951', linkIndex 7 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_643353727_766590951', linkIndex 8 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_643421382_643421384', program '0' in phase 0 after tl-index 7
+Warning: At actuated tlLogic 'cluster_643421382_643421384', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_766908432_766908546', program '0' in phase 0 after tl-index 13
+Warning: At actuated tlLogic 'cluster_766908432_766908546', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'cluster_964818392_9854530275', program '0' in phase 0 after tl-index 5
+Warning: At actuated tlLogic 'cluster_964818392_9854530275', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_cluster_2660340850_5341336047_cluster_3117729140_5341336048_5341336049_617105608', linkIndex 11 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_cluster_2660340850_5341336047_cluster_3117729140_5341336048_5341336049_617105608', linkIndex 12 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_cluster_2660340850_5341336047_cluster_3117729140_5341336048_5341336049_617105608', linkIndex 13 has no controlling detector.
+Warning: Unused states in tlLogic 'joinedS_3068940716_4049225303_611900860', program '0' in phase 0 after tl-index 13
+Warning: At actuated tlLogic 'joinedS_3068940716_4049225303_611900860', actuated phase 0 has no controlling detector.
+Warning: At actuated tlLogic 'joinedS_3946862159_cluster_4013603781_4027139344', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'joinedS_3946862159_cluster_4013603781_4027139344', actuated phase 8 has no controlling detector.
+Warning: Unused states in tlLogic 'joinedS_499289049_643034575', program '0' in phase 0 after tl-index 17
+Warning: At actuated tlLogic 'joinedS_499289049_643034575', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'joinedS_499289049_643034575', actuated phase 4 has no controlling detector.
+Warning: Unused states in tlLogic 'joinedS_577263317_577628678', program '0' in phase 0 after tl-index 8
+Warning: At actuated tlLogic 'joinedS_577263317_577628678', actuated phase 2 has no controlling detector.
+Warning: Unused states in tlLogic 'joinedS_601481932_616753164_617038019', program '0' in phase 0 after tl-index 17
+Warning: At actuated tlLogic 'joinedS_601481932_616753164_617038019', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic 'joinedS_601481932_616753164_617038019', actuated phase 6 has no controlling detector.
+Warning: At actuated tlLogic 'joinedS_601481932_616753164_617038019', actuated phase 8 has no controlling detector.
+Warning: Unused states in tlLogic 'joinedS_9881772073_cluster_9881772029_9881772072', program '0' in phase 0 after tl-index 19
+Loading additional-files from 'vtypes.add.xml' ... done (1ms).
+Loading additional-files from 'macro.add.xml' ... done (3ms).
+Loading done.
+Simulation version 1.12.0 started with time: 0.00
+Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 2)                   Step #100.00 (1ms ~= 1000.00*RT, ~45000.00UPS, vehicles TOT 46 ACT 45 BUF 0)              Step #200.00 (2ms ~= 500.00*RT, ~43500.00UPS, vehicles TOT 89 ACT 87 BUF 0)               Step #300.00 (1ms ~= 1000.00*RT, ~127000.00UPS, vehicles TOT 135 ACT 127 BUF 0)           Step #400.00 (2ms ~= 500.00*RT, ~75500.00UPS, vehicles TOT 176 ACT 151 BUF 0)             Warning: Vehicle 'moto29'; junction collision with vehicle 'car53', lane=':cluster_5166436918_5166437831_5166437833_5166437839_0_0', gap=-7.66, time=476.00 stage=laneChange.
+Step #500.00 (2ms ~= 500.00*RT, ~86000.00UPS, vehicles TOT 218 ACT 172 BUF 0)             Step #600.00 (3ms ~= 333.33*RT, ~63666.67UPS, vehicles TOT 262 ACT 191 BUF 0)             Step #700.00 (3ms ~= 333.33*RT, ~65333.33UPS, vehicles TOT 306 ACT 196 BUF 0)             Step #800.00 (2ms ~= 500.00*RT, ~107000.00UPS, vehicles TOT 349 ACT 214 BUF 0)            Step #900.00 (4ms ~= 250.00*RT, ~53250.00UPS, vehicles TOT 395 ACT 213 BUF 0)             Step #1000.00 (4ms ~= 250.00*RT, ~52000.00UPS, vehicles TOT 436 ACT 208 BUF 0)            Step #1100.00 (3ms ~= 333.33*RT, ~69000.00UPS, vehicles TOT 480 ACT 207 BUF 0)            Step #1200.00 (3ms ~= 333.33*RT, ~67666.67UPS, vehicles TOT 525 ACT 203 BUF 0)            Step #1300.00 (4ms ~= 250.00*RT, ~54250.00UPS, vehicles TOT 568 ACT 217 BUF 0)            Step #1400.00 (3ms ~= 333.33*RT, ~70666.67UPS, vehicles TOT 610 ACT 212 BUF 0)            Step #1500.00 (5ms ~= 200.00*RT, ~41200.00UPS, vehicles TOT 653 ACT 206 BUF 1)            Step #1600.00 (4ms ~= 250.00*RT, ~50750.00UPS, vehicles TOT 698 ACT 203 BUF 0)            Step #1700.00 (4ms ~= 250.00*RT, ~54500.00UPS, vehicles TOT 742 ACT 218 BUF 0)            Step #1800.00 (4ms ~= 250.00*RT, ~56750.00UPS, vehicles TOT 787 ACT 227 BUF 0)            Step #1900.00 (3ms ~= 333.33*RT, ~72666.67UPS, vehicles TOT 829 ACT 218 BUF 0)            Step #2000.00 (4ms ~= 250.00*RT, ~56500.00UPS, vehicles TOT 873 ACT 226 BUF 0)            Step #2100.00 (4ms ~= 250.00*RT, ~55500.00UPS, vehicles TOT 919 ACT 222 BUF 0)            Step #2200.00 (5ms ~= 200.00*RT, ~42200.00UPS, vehicles TOT 962 ACT 211 BUF 0)            Step #2300.00 (3ms ~= 333.33*RT, ~70666.67UPS, vehicles TOT 1005 ACT 212 BUF 0)           Step #2400.00 (3ms ~= 333.33*RT, ~70333.33UPS, vehicles TOT 1049 ACT 211 BUF 0)           Warning: Vehicle 'car716'; junction collision with vehicle 'car794', lane=':cluster_5166436918_5166437831_5166437833_5166437839_0_0', gap=-2.61, time=2447.00 stage=laneChange.
+Warning: Vehicle 'moto175'; junction collision with vehicle 'car716', lane=':cluster_5166436918_5166437831_5166437833_5166437839_0_0', gap=-5.46, time=2452.00 stage=laneChange.
+Step #2500.00 (4ms ~= 250.00*RT, ~55000.00UPS, vehicles TOT 1092 ACT 220 BUF 0)           Step #2600.00 (3ms ~= 333.33*RT, ~72333.33UPS, vehicles TOT 1135 ACT 217 BUF 0)           Step #2700.00 (4ms ~= 250.00*RT, ~55000.00UPS, vehicles TOT 1178 ACT 220 BUF 0)           Step #2800.00 (3ms ~= 333.33*RT, ~72333.33UPS, vehicles TOT 1221 ACT 217 BUF 0)           Step #2900.00 (3ms ~= 333.33*RT, ~71333.33UPS, vehicles TOT 1265 ACT 214 BUF 0)           Step #3000.00 (3ms ~= 333.33*RT, ~69666.67UPS, vehicles TOT 1310 ACT 209 BUF 0)           Step #3100.00 (3ms ~= 333.33*RT, ~67333.33UPS, vehicles TOT 1353 ACT 202 BUF 0)           Step #3200.00 (2ms ~= 500.00*RT, ~97000.00UPS, vehicles TOT 1396 ACT 194 BUF 0)           Step #3300.00 (2ms ~= 500.00*RT, ~102500.00UPS, vehicles TOT 1441 ACT 205 BUF 1)          Step #3400.00 (3ms ~= 333.33*RT, ~72000.00UPS, vehicles TOT 1486 ACT 216 BUF 0)           Step #3500.00 (4ms ~= 250.00*RT, ~53000.00UPS, vehicles TOT 1530 ACT 212 BUF 0)           Step #3600.00 (3ms ~= 333.33*RT, ~72000.00UPS, vehicles TOT 1576 ACT 216 BUF 0)           Step #3700.00 (3ms ~= 333.33*RT, ~74666.67UPS, vehicles TOT 1618 ACT 224 BUF 0)           Warning: Vehicle 'car1209'; junction collision with vehicle 'bus103', lane=':321424773_1_0', gap=-1.00, time=3708.00 stage=insertion.
+Step #3800.00 (3ms ~= 333.33*RT, ~70000.00UPS, vehicles TOT 1662 ACT 210 BUF 0)           Step #3900.00 (3ms ~= 333.33*RT, ~72666.67UPS, vehicles TOT 1704 ACT 218 BUF 0)           Step #4000.00 (3ms ~= 333.33*RT, ~70000.00UPS, vehicles TOT 1747 ACT 210 BUF 0)           Step #4100.00 (4ms ~= 250.00*RT, ~54000.00UPS, vehicles TOT 1790 ACT 216 BUF 0)           Step #4200.00 (3ms ~= 333.33*RT, ~72333.33UPS, vehicles TOT 1836 ACT 217 BUF 0)           Step #4300.00 (2ms ~= 500.00*RT, ~112500.00UPS, vehicles TOT 1880 ACT 225 BUF 0)          Step #4400.00 (3ms ~= 333.33*RT, ~72666.67UPS, vehicles TOT 1923 ACT 218 BUF 0)           Step #4500.00 (3ms ~= 333.33*RT, ~70333.33UPS, vehicles TOT 1968 ACT 211 BUF 1)           Step #4600.00 (3ms ~= 333.33*RT, ~68666.67UPS, vehicles TOT 2012 ACT 206 BUF 0)           Step #4700.00 (2ms ~= 500.00*RT, ~102000.00UPS, vehicles TOT 2056 ACT 204 BUF 0)          Step #4800.00 (2ms ~= 500.00*RT, ~104000.00UPS, vehicles TOT 2101 ACT 208 BUF 0)          Step #4900.00 (3ms ~= 333.33*RT, ~71000.00UPS, vehicles TOT 2145 ACT 213 BUF 0)           Step #5000.00 (2ms ~= 500.00*RT, ~101500.00UPS, vehicles TOT 2188 ACT 203 BUF 0)          Step #5100.00 (3ms ~= 333.33*RT, ~69000.00UPS, vehicles TOT 2233 ACT 207 BUF 0)           Step #5200.00 (3ms ~= 333.33*RT, ~69666.67UPS, vehicles TOT 2277 ACT 209 BUF 0)           Step #5300.00 (2ms ~= 500.00*RT, ~107500.00UPS, vehicles TOT 2321 ACT 215 BUF 0)          Step #5400.00 (3ms ~= 333.33*RT, ~70666.67UPS, vehicles TOT 2366 ACT 212 BUF 0)           Step #5500.00 (3ms ~= 333.33*RT, ~70666.67UPS, vehicles TOT 2408 ACT 212 BUF 0)           Step #5600.00 (2ms ~= 500.00*RT, ~101500.00UPS, vehicles TOT 2451 ACT 203 BUF 1)          Step #5700.00 (3ms ~= 333.33*RT, ~66333.33UPS, vehicles TOT 2496 ACT 199 BUF 0)           Step #5800.00 (3ms ~= 333.33*RT, ~68000.00UPS, vehicles TOT 2540 ACT 204 BUF 0)           Step #5900.00 (2ms ~= 500.00*RT, ~103000.00UPS, vehicles TOT 2583 ACT 206 BUF 0)          Step #6000.00 (4ms ~= 250.00*RT, ~53250.00UPS, vehicles TOT 2627 ACT 213 BUF 0)           Step #6100.00 (3ms ~= 333.33*RT, ~71333.33UPS, vehicles TOT 2670 ACT 214 BUF 0)           Step #6200.00 (3ms ~= 333.33*RT, ~69333.33UPS, vehicles TOT 2713 ACT 208 BUF 0)           Step #6300.00 (3ms ~= 333.33*RT, ~69000.00UPS, vehicles TOT 2758 ACT 207 BUF 1)           Step #6400.00 (3ms ~= 333.33*RT, ~68333.33UPS, vehicles TOT 2800 ACT 205 BUF 0)           Step #6500.00 (3ms ~= 333.33*RT, ~69000.00UPS, vehicles TOT 2841 ACT 207 BUF 0)           Step #6600.00 (3ms ~= 333.33*RT, ~74666.67UPS, vehicles TOT 2886 ACT 224 BUF 0)           Step #6700.00 (3ms ~= 333.33*RT, ~71000.00UPS, vehicles TOT 2930 ACT 213 BUF 0)           Warning: Vehicle 'car2204'; junction collision with vehicle 'car2196', lane=':cluster_5166436918_5166437831_5166437833_5166437839_0_0', gap=-4.86, time=6734.00 stage=laneChange.
+Step #6800.00 (3ms ~= 333.33*RT, ~69333.33UPS, vehicles TOT 2972 ACT 208 BUF 0)           Step #6900.00 (2ms ~= 500.00*RT, ~107500.00UPS, vehicles TOT 3018 ACT 215 BUF 0)          Step #7000.00 (3ms ~= 333.33*RT, ~74000.00UPS, vehicles TOT 3062 ACT 222 BUF 0)           Warning: Vehicle 'car2222'; junction collision with vehicle 'car2317', lane=':cluster_5166436918_5166437831_5166437833_5166437839_0_0', gap=-4.41, time=7028.00 stage=laneChange.
+Step #7100.00 (3ms ~= 333.33*RT, ~74333.33UPS, vehicles TOT 3106 ACT 223 BUF 0)           Step #7200.00 (4ms ~= 250.00*RT, ~54500.00UPS, vehicles TOT 3150 ACT 218 BUF 1)           Step #7300.00 (3ms ~= 333.33*RT, ~74666.67UPS, vehicles TOT 3193 ACT 224 BUF 0)           Step #7400.00 (4ms ~= 250.00*RT, ~55750.00UPS, vehicles TOT 3235 ACT 223 BUF 0)           Step #7500.00 (3ms ~= 333.33*RT, ~68333.33UPS, vehicles TOT 3281 ACT 205 BUF 0)           Step #7600.00 (4ms ~= 250.00*RT, ~52250.00UPS, vehicles TOT 3324 ACT 209 BUF 0)           Step #7700.00 (3ms ~= 333.33*RT, ~73333.33UPS, vehicles TOT 3364 ACT 220 BUF 0)           Step #7800.00 (3ms ~= 333.33*RT, ~71333.33UPS, vehicles TOT 3408 ACT 214 BUF 1)           Step #7900.00 (3ms ~= 333.33*RT, ~74333.33UPS, vehicles TOT 3453 ACT 223 BUF 0)           Step #8000.00 (3ms ~= 333.33*RT, ~73666.67UPS, vehicles TOT 3496 ACT 221 BUF 0)           Step #8100.00 (3ms ~= 333.33*RT, ~73666.67UPS, vehicles TOT 3542 ACT 221 BUF 0)           Step #8200.00 (3ms ~= 333.33*RT, ~69666.67UPS, vehicles TOT 3584 ACT 209 BUF 0)           Step #8300.00 (3ms ~= 333.33*RT, ~68000.00UPS, vehicles TOT 3627 ACT 204 BUF 0)           Step #8400.00 (3ms ~= 333.33*RT, ~68333.33UPS, vehicles TOT 3671 ACT 205 BUF 0)           Step #8500.00 (2ms ~= 500.00*RT, ~104000.00UPS, vehicles TOT 3714 ACT 208 BUF 0)          Step #8600.00 (3ms ~= 333.33*RT, ~68333.33UPS, vehicles TOT 3756 ACT 205 BUF 0)           Step #8700.00 (3ms ~= 333.33*RT, ~71000.00UPS, vehicles TOT 3800 ACT 213 BUF 1)           Step #8800.00 (2ms ~= 500.00*RT, ~106500.00UPS, vehicles TOT 3845 ACT 213 BUF 0)          Step #8900.00 (3ms ~= 333.33*RT, ~71666.67UPS, vehicles TOT 3887 ACT 215 BUF 0)           Step #9000.00 (3ms ~= 333.33*RT, ~73333.33UPS, vehicles TOT 3933 ACT 220 BUF 0)           Step #9100.00 (3ms ~= 333.33*RT, ~73666.67UPS, vehicles TOT 3976 ACT 221 BUF 0)           Step #9200.00 (3ms ~= 333.33*RT, ~72333.33UPS, vehicles TOT 4020 ACT 217 BUF 0)           Warning: Vehicle 'car3056'; junction collision with vehicle 'car3012', lane=':524233682_2_0', gap=-1.00, time=9296.00 stage=laneChange.
+Warning: Vehicle 'car3078'; junction collision with vehicle 'car3059', lane=':cluster_5166436918_5166437831_5166437833_5166437839_0_0', gap=-4.53, time=9297.00 stage=laneChange.
+Step #9300.00 (3ms ~= 333.33*RT, ~73000.00UPS, vehicles TOT 4063 ACT 219 BUF 0)           Step #9400.00 (3ms ~= 333.33*RT, ~71333.33UPS, vehicles TOT 4106 ACT 214 BUF 0)           Warning: Vehicle 'car3115'; junction collision with vehicle 'car2876', lane=':cluster_347404234_766497521_15_0', gap=-1.00, time=9411.00 stage=move.
+Step #9500.00 (3ms ~= 333.33*RT, ~70333.33UPS, vehicles TOT 4147 ACT 211 BUF 0)           Warning: Vehicle 'car3173'; junction collision with vehicle 'moto794', lane=':cluster_5166436918_5166437831_5166437833_5166437839_0_0', gap=-2.39, time=9594.00 stage=laneChange.
+Step #9600.00 (2ms ~= 500.00*RT, ~112500.00UPS, vehicles TOT 4193 ACT 225 BUF 0)          Step #9700.00 (3ms ~= 333.33*RT, ~71333.33UPS, vehicles TOT 4235 ACT 214 BUF 0)           Step #9800.00 (2ms ~= 500.00*RT, ~107000.00UPS, vehicles TOT 4279 ACT 214 BUF 0)          Step #9900.00 (3ms ~= 333.33*RT, ~72000.00UPS, vehicles TOT 4322 ACT 216 BUF 0)           Step #10000.00 (3ms ~= 333.33*RT, ~71000.00UPS, vehicles TOT 4365 ACT 213 BUF 0)          Step #10100.00 (3ms ~= 333.33*RT, ~69666.67UPS, vehicles TOT 4409 ACT 209 BUF 0)          Step #10200.00 (2ms ~= 500.00*RT, ~108000.00UPS, vehicles TOT 4455 ACT 216 BUF 0)         Step #10300.00 (3ms ~= 333.33*RT, ~72000.00UPS, vehicles TOT 4497 ACT 216 BUF 0)          Warning: Vehicle 'car3300'; junction collision with vehicle 'bus283', lane=':cluster_413678740_616235235_16_0', gap=-1.00, time=10330.00 stage=move.
+Warning: Vehicle 'car3445'; junction collision with vehicle 'bus280', lane=':2472625132_0_0', gap=-1.00, time=10336.00 stage=move.
+Step #10400.00 (3ms ~= 333.33*RT, ~69666.67UPS, vehicles TOT 4537 ACT 209 BUF 0)          Step #10500.00 (2ms ~= 500.00*RT, ~105500.00UPS, vehicles TOT 4581 ACT 211 BUF 0)         Step #10600.00 (3ms ~= 333.33*RT, ~70000.00UPS, vehicles TOT 4624 ACT 210 BUF 0)          Step #10700.00 (3ms ~= 333.33*RT, ~71333.33UPS, vehicles TOT 4668 ACT 214 BUF 0)          Step #10800.00 (3ms ~= 333.33*RT, ~70333.33UPS, vehicles TOT 4709 ACT 211 BUF 0)          Step #10900.00 (2ms ~= 500.00*RT, ~79000.00UPS, vehicles TOT 4709 ACT 158 BUF 0)          Step #11000.00 (1ms ~= 1000.00*RT, ~112000.00UPS, vehicles TOT 4709 ACT 112 BUF 0)        Step #11100.00 (1ms ~= 1000.00*RT, ~76000.00UPS, vehicles TOT 4709 ACT 76 BUF 0)          Step #11200.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 46 BUF 0)                           Step #11300.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 25 BUF 0)                           Step #11400.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 14 BUF 0)                           Step #11500.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 7 BUF 0)                            Step #11600.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 3 BUF 0)                            Step #11700.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 1 BUF 0)                            Step #11800.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 1 BUF 0)                            Step #11900.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 1 BUF 0)                            Step #12000.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 0 BUF 0)                            Step #12100.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 0 BUF 0)                            Step #12200.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 0 BUF 0)                            Step #12300.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 0 BUF 0)                            Step #12400.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 0 BUF 0)                            Step #12500.00 (0ms ?*RT. ?UPS, vehicles TOT 4709 ACT 0 BUF 0)                            Step #12600.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 4709 ACT 0 BUF 0)               
+Simulation ended at time: 12600.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 32.49s
+ Real time factor: 387.8
+ UPS: 70488.381398
+Vehicles: 
+ Inserted: 4709
+ Running: 0
+ Waiting: 0
+Teleports: 0 (Collisions: 12)
+Statistics (avg):
+ RouteLength: 5306.79
+ Speed: 10.86
+ Duration: 486.35
+ WaitingTime: 34.56
+ TimeLoss: 102.13
+ DepartDelay: 0.11
+

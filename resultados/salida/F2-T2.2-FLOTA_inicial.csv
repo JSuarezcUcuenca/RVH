@@ -1,0 +1,8 @@
+hospital,tipo,stock_inicial,unidades
+VCM,Publico,3,U01;U02;U03
+IESS_JCA,Publico,1,U04
+MILITAR,Publico,1,U05
+MUNI_PAT,Publico,3,U06;U07;U08
+MUNI_VALLE,Publico,2,U09;U10
+MONTE_SINAI,Privado,0,
+DEL_RIO,Privado,0,

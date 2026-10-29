@@ -1,0 +1,118 @@
+tiempo_s,evento,detalle
+300.0,CHOQUE_INTENTADO,objetivo=A01; bus=bus3; moto=F4_MOTO_001
+325.0,CHOQUE_INTENTADO,objetivo=A01; bus=bus3; moto=F4_MOTO_002
+350.0,CHOQUE_INTENTADO,objetivo=A01; bus=bus8; moto=F4_MOTO_003
+353.0,ACCIDENTE_CONFIRMADO,accidente=A01; bus=bus8; moto=F4_MOTO_003; edge=-405323903
+353.0,AMBULANCIA_DESPACHADA,accidente=A01; unidad=U04; hospital=IESS_JCA; eta=271.5
+591.0,AMBULANCIA_EN_ESCENA,accidente=A01; unidad=U04; modo=PROXIMIDAD_50M; respuesta_s=238.0
+711.0,FIN_ATENCION_RETORNO,accidente=A01; unidad=U04; hospital=IESS_JCA
+712.0,RETORNO_DIAGNOSTICO,accidente=A01; unidad=U04; hospital=IESS_JCA; arista=82898761#0; distancia_m=1816.6; velocidad_ms=2.48; sin_progreso_s=0.0
+900.0,CHOQUE_INTENTADO,objetivo=A02; bus=bus23; moto=F4_MOTO_004
+903.0,ACCIDENTE_CONFIRMADO,accidente=A02; bus=bus23; moto=F4_MOTO_004; edge=538111981#0
+903.0,HOSPITAL_RECHAZA,accidente=A02; hospital=MUNI_VALLE
+903.0,AMBULANCIA_DESPACHADA,accidente=A02; unidad=U01; hospital=VCM; eta=244.8
+960.0,UNIDAD_DISPONIBLE,accidente=A01; unidad=U04; hospital=IESS_JCA; modo=FIN_RUTA
+1161.0,AMBULANCIA_EN_ESCENA,accidente=A02; unidad=U01; modo=PROXIMIDAD_50M; respuesta_s=258.0
+1281.0,FIN_ATENCION_RETORNO,accidente=A02; unidad=U01; hospital=MUNI_VALLE
+1282.0,RETORNO_DIAGNOSTICO,accidente=A02; unidad=U01; hospital=MUNI_VALLE; arista=538111981#0; distancia_m=1426.2; velocidad_ms=2.98; sin_progreso_s=0.0
+1393.0,UNIDAD_DISPONIBLE,accidente=A02; unidad=U01; hospital=MUNI_VALLE; modo=PROXIMIDAD_50M
+1500.0,CHOQUE_INTENTADO,objetivo=A03; bus=bus21; moto=F4_MOTO_005
+1525.0,CHOQUE_INTENTADO,objetivo=A03; bus=bus31; moto=F4_MOTO_006
+1528.0,ACCIDENTE_CONFIRMADO,accidente=A03; bus=bus31; moto=F4_MOTO_006; edge=329974466
+1528.0,HOSPITAL_RECHAZA,accidente=A03; hospital=VCM
+1528.0,AMBULANCIA_DESPACHADA,accidente=A03; unidad=U06; hospital=MUNI_PAT; eta=289.8
+1860.0,AMBULANCIA_EN_ESCENA,accidente=A03; unidad=U06; modo=PROXIMIDAD_50M; respuesta_s=332.0
+1980.0,FIN_ATENCION_RETORNO,accidente=A03; unidad=U06; hospital=MUNI_PAT
+1981.0,RETORNO_DIAGNOSTICO,accidente=A03; unidad=U06; hospital=MUNI_PAT; arista=351447908#0; distancia_m=2847.4; velocidad_ms=2.27; sin_progreso_s=0.0
+2100.0,CHOQUE_INTENTADO,objetivo=A04; bus=bus43; moto=F4_MOTO_007
+2103.0,ACCIDENTE_CONFIRMADO,accidente=A04; bus=bus43; moto=F4_MOTO_007; edge=42453895#0
+2103.0,AMBULANCIA_DESPACHADA,accidente=A04; unidad=U04; hospital=IESS_JCA; eta=166.8
+2257.0,AMBULANCIA_EN_ESCENA,accidente=A04; unidad=U04; modo=PROXIMIDAD_50M; respuesta_s=154.0
+2281.0,RETORNO_DIAGNOSTICO,accidente=A03; unidad=U06; hospital=MUNI_PAT; arista=378364650#0; distancia_m=1021.9; velocidad_ms=24.67; sin_progreso_s=42.0
+2290.0,UNIDAD_DISPONIBLE,accidente=A03; unidad=U06; hospital=MUNI_PAT; modo=FIN_RUTA
+2377.0,FIN_ATENCION_RETORNO,accidente=A04; unidad=U04; hospital=IESS_JCA
+2378.0,RETORNO_DIAGNOSTICO,accidente=A04; unidad=U04; hospital=IESS_JCA; arista=42453895#0; distancia_m=1835.6; velocidad_ms=2.84; sin_progreso_s=0.0
+2548.0,UNIDAD_DISPONIBLE,accidente=A04; unidad=U04; hospital=IESS_JCA; modo=FIN_RUTA
+2700.0,CHOQUE_INTENTADO,objetivo=A05; bus=bus71; moto=F4_MOTO_008
+2703.0,ACCIDENTE_CONFIRMADO,accidente=A05; bus=bus71; moto=F4_MOTO_008; edge=48909343#0
+2703.0,AMBULANCIA_DESPACHADA,accidente=A05; unidad=U02; hospital=VCM; eta=155.3
+2872.0,AMBULANCIA_EN_ESCENA,accidente=A05; unidad=U02; modo=PROXIMIDAD_50M; respuesta_s=169.0
+2992.0,FIN_ATENCION_RETORNO,accidente=A05; unidad=U02; hospital=VCM
+2993.0,RETORNO_DIAGNOSTICO,accidente=A05; unidad=U02; hospital=VCM; arista=48909343#0; distancia_m=1408.5; velocidad_ms=2.73; sin_progreso_s=0.0
+3168.0,UNIDAD_DISPONIBLE,accidente=A05; unidad=U02; hospital=VCM; modo=FIN_RUTA
+3900.0,CHOQUE_INTENTADO,objetivo=A06; bus=bus91; moto=F4_MOTO_009
+3902.0,ACCIDENTE_CONFIRMADO,accidente=A06; bus=bus91; moto=F4_MOTO_009; edge=334968591#0
+3902.0,AMBULANCIA_DESPACHADA,accidente=A06; unidad=U03; hospital=VCM; eta=122.3
+4012.0,AMBULANCIA_EN_ESCENA,accidente=A06; unidad=U03; modo=PROXIMIDAD_50M; respuesta_s=110.0
+4132.0,FIN_ATENCION_RETORNO,accidente=A06; unidad=U03; hospital=VCM
+4133.0,RETORNO_DIAGNOSTICO,accidente=A06; unidad=U03; hospital=VCM; arista=334968591#0; distancia_m=875.2; velocidad_ms=2.66; sin_progreso_s=0.0
+4241.0,UNIDAD_DISPONIBLE,accidente=A06; unidad=U03; hospital=VCM; modo=FIN_RUTA
+4500.0,CHOQUE_INTENTADO,objetivo=A07; bus=bus119; moto=F4_MOTO_010
+4503.0,ACCIDENTE_CONFIRMADO,accidente=A07; bus=bus119; moto=F4_MOTO_010; edge=252225097
+4503.0,AMBULANCIA_DESPACHADA,accidente=A07; unidad=U05; hospital=MILITAR; eta=106.2
+4622.0,AMBULANCIA_EN_ESCENA,accidente=A07; unidad=U05; modo=PROXIMIDAD_50M; respuesta_s=119.0
+4742.0,FIN_ATENCION_RETORNO,accidente=A07; unidad=U05; hospital=MILITAR
+4743.0,RETORNO_DIAGNOSTICO,accidente=A07; unidad=U05; hospital=MILITAR; arista=252225097; distancia_m=576.0; velocidad_ms=2.82; sin_progreso_s=0.0
+4800.0,UNIDAD_DISPONIBLE,accidente=A07; unidad=U05; hospital=MILITAR; modo=PROXIMIDAD_50M
+5100.0,CHOQUE_INTENTADO,objetivo=A08; bus=bus140; moto=F4_MOTO_011
+5103.0,ACCIDENTE_CONFIRMADO,accidente=A08; bus=bus140; moto=F4_MOTO_011; edge=-405323903
+5103.0,AMBULANCIA_DESPACHADA,accidente=A08; unidad=U04; hospital=IESS_JCA; eta=271.5
+5344.0,AMBULANCIA_EN_ESCENA,accidente=A08; unidad=U04; modo=PROXIMIDAD_50M; respuesta_s=241.0
+5464.0,FIN_ATENCION_RETORNO,accidente=A08; unidad=U04; hospital=IESS_JCA
+5465.0,RETORNO_DIAGNOSTICO,accidente=A08; unidad=U04; hospital=IESS_JCA; arista=82898761#0; distancia_m=1774.6; velocidad_ms=2.58; sin_progreso_s=0.0
+5700.0,CHOQUE_INTENTADO,objetivo=A09; bus=bus149; moto=F4_MOTO_012
+5702.0,ACCIDENTE_CONFIRMADO,accidente=A09; bus=bus149; moto=F4_MOTO_012; edge=334968591#0
+5702.0,AMBULANCIA_DESPACHADA,accidente=A09; unidad=U02; hospital=VCM; eta=122.3
+5710.0,UNIDAD_DISPONIBLE,accidente=A08; unidad=U04; hospital=IESS_JCA; modo=FIN_RUTA
+5822.0,AMBULANCIA_EN_ESCENA,accidente=A09; unidad=U02; modo=PROXIMIDAD_50M; respuesta_s=120.0
+5942.0,FIN_ATENCION_RETORNO,accidente=A09; unidad=U02; hospital=VCM
+5943.0,RETORNO_DIAGNOSTICO,accidente=A09; unidad=U02; hospital=VCM; arista=334968591#0; distancia_m=823.4; velocidad_ms=2.7; sin_progreso_s=0.0
+6048.0,UNIDAD_DISPONIBLE,accidente=A09; unidad=U02; hospital=VCM; modo=FIN_RUTA
+6300.0,CHOQUE_INTENTADO,objetivo=A10; bus=bus169; moto=F4_MOTO_013
+6317.0,CHOQUE_INTENTADO,objetivo=A10; bus=bus170; moto=F4_MOTO_014
+6320.0,ACCIDENTE_CONFIRMADO,accidente=A10; bus=bus170; moto=F4_MOTO_014; edge=762071201
+6320.0,HOSPITAL_RECHAZA,accidente=A10; hospital=IESS_JCA
+6320.0,AMBULANCIA_DESPACHADA,accidente=A10; unidad=U03; hospital=VCM; eta=307.7
+6575.0,AMBULANCIA_EN_ESCENA,accidente=A10; unidad=U03; modo=PROXIMIDAD_50M; respuesta_s=255.0
+6695.0,FIN_ATENCION_RETORNO,accidente=A10; unidad=U03; hospital=IESS_JCA
+6696.0,RETORNO_DIAGNOSTICO,accidente=A10; unidad=U03; hospital=IESS_JCA; arista=300587960#0; distancia_m=497.1; velocidad_ms=2.78; sin_progreso_s=0.0
+6863.0,UNIDAD_DISPONIBLE,accidente=A10; unidad=U03; hospital=IESS_JCA; modo=FIN_RUTA
+7500.0,CHOQUE_INTENTADO,objetivo=A11; bus=bus204; moto=F4_MOTO_015
+7503.0,ACCIDENTE_CONFIRMADO,accidente=A11; bus=bus204; moto=F4_MOTO_015; edge=400354140
+7503.0,HOSPITAL_RECHAZA,accidente=A11; hospital=IESS_JCA
+7503.0,AMBULANCIA_DESPACHADA,accidente=A11; unidad=U09; hospital=MUNI_VALLE; eta=203.6
+7700.0,AMBULANCIA_EN_ESCENA,accidente=A11; unidad=U09; modo=PROXIMIDAD_50M; respuesta_s=197.0
+7820.0,FIN_ATENCION_RETORNO,accidente=A11; unidad=U09; hospital=VCM
+7821.0,RETORNO_DIAGNOSTICO,accidente=A11; unidad=U09; hospital=VCM; arista=400354140; distancia_m=2215.3; velocidad_ms=2.23; sin_progreso_s=0.0
+8032.0,UNIDAD_DISPONIBLE,accidente=A11; unidad=U09; hospital=VCM; modo=FIN_RUTA
+8100.0,CHOQUE_INTENTADO,objetivo=A12; bus=bus220; moto=F4_MOTO_016
+8103.0,ACCIDENTE_CONFIRMADO,accidente=A12; bus=bus220; moto=F4_MOTO_016; edge=47198321
+8103.0,AMBULANCIA_DESPACHADA,accidente=A12; unidad=U07; hospital=MUNI_PAT; eta=198.5
+8334.0,AMBULANCIA_EN_ESCENA,accidente=A12; unidad=U07; modo=PROXIMIDAD_50M; respuesta_s=231.0
+8454.0,FIN_ATENCION_RETORNO,accidente=A12; unidad=U07; hospital=MUNI_PAT
+8455.0,RETORNO_DIAGNOSTICO,accidente=A12; unidad=U07; hospital=MUNI_PAT; arista=399828225#1; distancia_m=1182.3; velocidad_ms=2.38; sin_progreso_s=0.0
+8657.0,UNIDAD_DISPONIBLE,accidente=A12; unidad=U07; hospital=MUNI_PAT; modo=FIN_RUTA
+8700.0,CHOQUE_INTENTADO,objetivo=A13; bus=bus238; moto=F4_MOTO_017
+8703.0,ACCIDENTE_CONFIRMADO,accidente=A13; bus=bus238; moto=F4_MOTO_017; edge=252225576#0
+8703.0,AMBULANCIA_DESPACHADA,accidente=A13; unidad=U05; hospital=MILITAR; eta=231.1
+8975.0,AMBULANCIA_EN_ESCENA,accidente=A13; unidad=U05; modo=PROXIMIDAD_50M; respuesta_s=272.0
+9095.0,FIN_ATENCION_RETORNO,accidente=A13; unidad=U05; hospital=MONTE_SINAI
+9096.0,RETORNO_DIAGNOSTICO,accidente=A13; unidad=U05; hospital=MONTE_SINAI; arista=252225576#0; distancia_m=2458.4; velocidad_ms=2.17; sin_progreso_s=0.0
+9300.0,CHOQUE_INTENTADO,objetivo=A14; bus=bus254; moto=F4_MOTO_018
+9303.0,ACCIDENTE_CONFIRMADO,accidente=A14; bus=bus254; moto=F4_MOTO_018; edge=195578598
+9303.0,AMBULANCIA_DESPACHADA,accidente=A14; unidad=U08; hospital=MUNI_PAT; eta=195.8
+9396.0,RETORNO_DIAGNOSTICO,accidente=A13; unidad=U05; hospital=MONTE_SINAI; arista=40972463#0; distancia_m=145.9; velocidad_ms=17.54; sin_progreso_s=0.0
+9438.0,UNIDAD_DISPONIBLE,accidente=A13; unidad=U05; hospital=MONTE_SINAI; modo=PROXIMIDAD_50M
+9549.0,AMBULANCIA_EN_ESCENA,accidente=A14; unidad=U08; modo=PROXIMIDAD_50M; respuesta_s=246.0
+9669.0,FIN_ATENCION_RETORNO,accidente=A14; unidad=U08; hospital=MUNI_PAT
+9670.0,RETORNO_DIAGNOSTICO,accidente=A14; unidad=U08; hospital=MUNI_PAT; arista=195578598; distancia_m=1687.7; velocidad_ms=2.42; sin_progreso_s=0.0
+9900.0,CHOQUE_INTENTADO,objetivo=A15; bus=bus271; moto=F4_MOTO_019
+9903.0,ACCIDENTE_CONFIRMADO,accidente=A15; bus=bus271; moto=F4_MOTO_019; edge=-534903539#12
+9903.0,HOSPITAL_RECHAZA,accidente=A15; hospital=MONTE_SINAI
+9903.0,AMBULANCIA_DESPACHADA,accidente=A15; unidad=U04; hospital=IESS_JCA; eta=415.5
+9910.0,UNIDAD_DISPONIBLE,accidente=A14; unidad=U08; hospital=MUNI_PAT; modo=FIN_RUTA
+10312.0,AMBULANCIA_EN_ESCENA,accidente=A15; unidad=U04; modo=PROXIMIDAD_50M; respuesta_s=409.0
+10432.0,FIN_ATENCION_RETORNO,accidente=A15; unidad=U04; hospital=MONTE_SINAI
+10433.0,RETORNO_DIAGNOSTICO,accidente=A15; unidad=U04; hospital=MONTE_SINAI; arista=-534903539#12; distancia_m=2276.0; velocidad_ms=2.47; sin_progreso_s=0.0
+10733.0,RETORNO_DIAGNOSTICO,accidente=A15; unidad=U04; hospital=MONTE_SINAI; arista=45424968; distancia_m=741.0; velocidad_ms=0.0; sin_progreso_s=10.0
+10808.0,UNIDAD_DISPONIBLE,accidente=A15; unidad=U04; hospital=MONTE_SINAI; modo=PROXIMIDAD_50M

@@ -1,0 +1,2 @@
+unidad,origen,destino,t_despacho,t_insercion,t_llegada,tiempo_real_s,eta_s,diferencia_s,variacion_pct,distancia_ruta_m,aristas
+U01,VCM,IESS_JCA,120.0,121.0,540.0,420.0,334.23,85.77,25.66,6238.19,34

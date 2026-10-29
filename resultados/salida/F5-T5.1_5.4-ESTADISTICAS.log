@@ -1,0 +1,35 @@
+
+==================================================================================
+F5-T5.1 | ACCIDENTES Y TIEMPOS DE RESPUESTA
+==================================================================================
+  CSV: resultados/salida/F5-T5.1-ACCIDENTES_estadisticas.csv
+  Accidentes: 15; misiones terminadas: 15
+  Respuesta media: 223.4 s; mediana: 238.0 s; max: 409.0 s
+
+==================================================================================
+F5-T5.2 | ACTIVIDAD HOSPITALARIA
+==================================================================================
+  CSV: resultados/salida/F5-T5.2-HOSPITALES_estadisticas.csv
+  Despachos: 15 Retornos: 15 Retornos a hospital diferente: 5
+
+==================================================================================
+F5-T5.3 | EVOLUCION DEL STOCK
+==================================================================================
+  Columnas originales STOCK_hospitales.csv: tiempo_s, evento, hospital, disponibles, rechazos
+  Stock inicial: 10 Stock final: 10
+  CSV: resultados/salida/F5-T5.3-STOCK_evolucion.csv
+
+==================================================================================
+F5-T5.4 | GRAFICAS Y VALIDACION
+==================================================================================
+  [OK] 15 accidentes
+  [OK] 5 accidentes por hora
+  [OK] 15 misiones terminadas
+  [OK] 15 retornos con instante
+  [OK] 120 s de atención en todas
+  [REVISAR] 0 teleports
+  [OK] Stock sin valores negativos
+  Teleports leídos del log: None
+  Figuras en: /home/vanet/results/reto/resultados/graficas
+
+  RESULTADO: REVISAR INDICADORES

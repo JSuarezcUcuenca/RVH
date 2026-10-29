@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-10-29 00:03:30 by Eclipse SUMO sumo Version 1.12.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/vanet/results/reto/cuenca_ciudad.net.xml"/>
+        <route-files value="/home/vanet/results/reto/fondo_car.rou.xml,/home/vanet/results/reto/fondo_bus.rou.xml,/home/vanet/results/reto/fondo_moto.rou.xml"/>
+        <additional-files value="/home/vanet/results/reto/vtypes.add.xml,/home/vanet/results/reto/macro.add.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="/home/vanet/results/reto/resultados/salida/F2-TRIPINFO.xml"/>
+        <collision-output value="/home/vanet/results/reto/resultados/salida/F2-COLISIONES.xml"/>
+        <statistic-output value="/home/vanet/results/reto/resultados/salida/F2-ESTADISTICAS.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="12600"/>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <ignore-junction-blocker value="60"/>
+        <ignore-route-errors value="true"/>
+        <collision.action value="warn"/>
+        <collision.check-junctions value="true"/>
+        <collision.mingap-factor value="0"/>
+        <time-to-teleport value="-1"/>
+        <time-to-teleport.disconnected value="-1"/>
+    </processing>
+
+    <report>
+        <verbose value="true"/>
+        <no-warnings value="true"/>
+        <duration-log.statistics value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <traci_server>
+        <remote-port value="59671"/>
+    </traci_server>
+
+    <random_number>
+        <seed value="42"/>
+    </random_number>
+
+    <gui_only>
+        <start value="true"/>
+        <tracker-interval value="1"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<collisions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/collision_file.xsd">
+    <collision time="477.00" type="junction" lane=":cluster_5166436918_5166437831_5166437833_5166437839_0_0" pos="2.29" collider="moto29" victim="car53" colliderType="moto" victimType="car" colliderSpeed="4.98" victimSpeed="7.89"/>
+    <collision time="478.00" type="junction" lane=":cluster_5166436918_5166437831_5166437833_5166437839_0_0" pos="2.29" collider="moto29" victim="car53" colliderType="moto" victimType="car" colliderSpeed="4.98" victimSpeed="7.89"/>
+</collisions>

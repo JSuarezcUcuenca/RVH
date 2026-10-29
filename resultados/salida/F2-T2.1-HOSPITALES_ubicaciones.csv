@@ -1,0 +1,8 @@
+hospital,nombre,tipo,lon,lat,arista,posicion_m,carril,calle,distancia_m,estado
+VCM,Vicente Corral Moscoso,Publico,-78.992923,-2.911098,208782596#1,74.5,0,Avenida Del ParaÃ­so,81.16,OK
+IESS_JCA,Jose Carrasco Arteaga,Publico,-78.970118,-2.898698,357285817#5,293.98,0,CircunvalaciÃ³n Sur,112.5,OK
+MILITAR,Militar Tarqui,Publico,-79.003968,-2.903146,334948974#1,59.3,1,Avenida 12 de Abril,9.18,OK
+MUNI_PAT,Municipal Patamarca,Publico,-78.982263,-2.866103,378364650#0,87.84,0,Via Checa Chiquintad,135.56,OK
+MUNI_VALLE,Municipal El Valle,Publico,-78.961959,-2.919522,-171302162#23,88.21,0,,8.3,OK
+MONTE_SINAI,Monte Sinai,Privado,-79.007373,-2.908606,269103111#3,38.02,0,Avenida Fray Vicente Solano,37.98,OK
+DEL_RIO,Hospital del Rio,Privado,-78.960796,-2.892939,118664605,119.34,0,,74.01,OK

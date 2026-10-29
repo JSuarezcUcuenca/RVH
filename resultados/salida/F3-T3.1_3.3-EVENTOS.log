@@ -1,0 +1,107 @@
+
+==============================================================================================
+                                 FASE 3 | ACCIDENTES BUS-MOTO                                 
+==============================================================================================
+ Retrying in 1 seconds
+***Starting server on port 49843 ***
+Loading net-file from '/home/vanet/results/reto/cuenca_ciudad.net.xml' ... done (413ms).
+Loading additional-files from '/home/vanet/results/reto/vtypes.add.xml' ... done (1ms).
+Loading additional-files from '/home/vanet/results/reto/macro.add.xml' ... done (5ms).
+Loading done.
+Simulation version 1.12.0 started with time: 0.00
+
+==============================================================================================
+                            F3 - T3.1 | PROGRAMACION DE ACCIDENTES                            
+==============================================================================================
+  Hora 1 - cinco eventos               : 300, 900, 1500, 2100, 2700
+  Hora 2 - cinco eventos               : 3900, 4500, 5100, 5700, 6300
+  Hora 3 - cinco eventos               : 7500, 8100, 8700, 9300, 9900
+  Accidentes objetivo                  : 15
+  Accidentes por hora                  : 5
+  Primer accidente programado          : t = 300 s
+  Duracion de demanda                  : 10800 s
+  Semilla                              : 42
+  [OK] T3.1: programacion de 15 eventos creada.
+
+==============================================================================================
+                              F3 - T3.2 | GENERACION Y DETECCION                              
+==============================================================================================
+  [INTENTO A01] t=300 s | Bus=bus3 | Moto=F3_MOTO_001
+  [REINTENTO] A01 sin colision confirmada.
+  [INTENTO A01] t=325 s | Bus=bus3 | Moto=F3_MOTO_002
+  [REINTENTO] A01 sin colision confirmada.
+  [INTENTO A01] t=350 s | Bus=bus8 | Moto=F3_MOTO_003
+  [COLISION CONFIRMADA] A01 | t=353 s | F3_MOTO_003 / bus8
+  [INTENTO A02] t=900 s | Bus=bus20 | Moto=F3_MOTO_004
+  [COLISION CONFIRMADA] A02 | t=903 s | F3_MOTO_004 / bus20
+  [INTENTO A03] t=1500 s | Bus=bus34 | Moto=F3_MOTO_005
+  [COLISION CONFIRMADA] A03 | t=1503 s | F3_MOTO_005 / bus34
+  [INTENTO A04] t=2100 s | Bus=bus46 | Moto=F3_MOTO_006
+  [COLISION CONFIRMADA] A04 | t=2102 s | F3_MOTO_006 / bus46
+  [INTENTO A05] t=2700 s | Bus=bus65 | Moto=F3_MOTO_007
+  [COLISION CONFIRMADA] A05 | t=2703 s | F3_MOTO_007 / bus65
+  [INTENTO A06] t=3900 s | Bus=bus94 | Moto=F3_MOTO_008
+  [COLISION CONFIRMADA] A06 | t=3903 s | F3_MOTO_008 / bus94
+  [INTENTO A07] t=4500 s | Bus=bus108 | Moto=F3_MOTO_009
+  [COLISION CONFIRMADA] A07 | t=4503 s | F3_MOTO_009 / bus108
+  [INTENTO A08] t=5100 s | Bus=bus136 | Moto=F3_MOTO_010
+  [COLISION CONFIRMADA] A08 | t=5103 s | F3_MOTO_010 / bus136
+  [INTENTO A09] t=5700 s | Bus=bus142 | Moto=F3_MOTO_011
+  [COLISION CONFIRMADA] A09 | t=5703 s | F3_MOTO_011 / bus142
+  [INTENTO A10] t=6300 s | Bus=bus172 | Moto=F3_MOTO_012
+  [COLISION CONFIRMADA] A10 | t=6303 s | F3_MOTO_012 / bus172
+  [INTENTO A11] t=7500 s | Bus=bus204 | Moto=F3_MOTO_013
+  [COLISION CONFIRMADA] A11 | t=7503 s | F3_MOTO_013 / bus204
+  [INTENTO A12] t=8100 s | Bus=bus210 | Moto=F3_MOTO_014
+  [COLISION CONFIRMADA] A12 | t=8103 s | F3_MOTO_014 / bus210
+  [INTENTO A13] t=8700 s | Bus=bus229 | Moto=F3_MOTO_015
+  [COLISION CONFIRMADA] A13 | t=8703 s | F3_MOTO_015 / bus229
+  [INTENTO A14] t=9300 s | Bus=bus251 | Moto=F3_MOTO_016
+  [COLISION CONFIRMADA] A14 | t=9303 s | F3_MOTO_016 / bus251
+  [INTENTO A15] t=9900 s | Bus=bus261 | Moto=F3_MOTO_017
+  [COLISION CONFIRMADA] A15 | t=9903 s | F3_MOTO_017 / bus261
+
+==============================================================================================
+                            F3 - T3.3 | VALIDACION Y ESTADISTICAS                             
+==============================================================================================
+
+----------------------------------------------------------------------------------------------
+ACCIDENTES POR HORA
+----------------------------------------------------------------------------------------------
+  Hora 1                               : 5/5 confirmados
+  Hora 2                               : 5/5 confirmados
+  Hora 3                               : 5/5 confirmados
+
+----------------------------------------------------------------------------------------------
+RESUMEN GENERAL
+----------------------------------------------------------------------------------------------
+  Accidentes programados               : 15
+  Accidentes confirmados               : 15
+  Intentos de insercion                : 17
+  Colisiones adicionales detectadas    : 28
+  [OK] FASE 3: 15 accidentes, cinco por hora.
+  [OK] Grafica de accidentes generada.
+
+Cerrando simulacion TraCI...
+Simulation ended at time: 10800.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 55.32s
+ TraCI-Duration: 9.81s
+ Real time factor: 195.228
+ UPS: 68337.165582
+Vehicles: 
+ Inserted: 4708 (Loaded: 4743)
+ Running: 713
+ Waiting: 18
+Teleports: 0 (Collisions: 29)
+Statistics (avg):
+ RouteLength: 5157.13
+ Speed: 10.87
+ Duration: 473.00
+ WaitingTime: 34.87
+ TimeLoss: 100.09
+ DepartDelay: 0.11
+
+DijkstraRouter answered 17 queries and explored 281.82 edges on average.
+DijkstraRouter spent 0.01s answering queries (0.59ms on average).

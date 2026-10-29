@@ -1,0 +1,7 @@
+
+<additional>
+    <edgeData id="macro"
+              freq="900"
+              file="resultados/salida/F1-T1.4-MACRO.xml"
+              excludeEmpty="true"/>
+</additional>

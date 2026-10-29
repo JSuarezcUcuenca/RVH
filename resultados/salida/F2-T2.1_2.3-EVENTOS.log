@@ -1,0 +1,159 @@
+
+==============================================================================================
+                            RETO ACCIDENTES BUS-MOTO Y AMBULANCIAS                            
+==============================================================================================
+  Universidad de Cuenca
+  Fase 2: Hospitales y flota de ambulancias
+  SUMO 1.12.0 + TraCI
+  Semilla de simulacion: 42
+ Retrying in 1 seconds
+***Starting server on port 59671 ***
+Loading net-file from '/home/vanet/results/reto/cuenca_ciudad.net.xml' ... done (393ms).
+Loading additional-files from '/home/vanet/results/reto/vtypes.add.xml' ... done (1ms).
+Loading additional-files from '/home/vanet/results/reto/macro.add.xml' ... done (3ms).
+Loading done.
+Simulation version 1.12.0 started with time: 0.00
+
+==============================================================================================
+                             F2 - T2.1 | UBICACION DE HOSPITALES                              
+==============================================================================================
+  Ubicando hospitales mediante coordenadas WGS84...
+  Buscando aristas aptas para vehiculos de emergencia.
+
+----------------------------------------------------------------------------------------------
+TABLA 2.1 - HOSPITALES LOCALIZADOS
+----------------------------------------------------------------------------------------------
+Hospital       | Tipo      | Arista SUMO              | Dist. m   | Estado  
+----------------------------------------------------------------------------
+VCM            | Publico   | 208782596#1              | 81.2      | OK      
+IESS_JCA       | Publico   | 357285817#5              | 112.5     | OK      
+MILITAR        | Publico   | 334948974#1              | 9.2       | OK      
+MUNI_PAT       | Publico   | 378364650#0              | 135.6     | OK      
+MUNI_VALLE     | Publico   | -171302162#23            | 8.3       | OK      
+MONTE_SINAI    | Privado   | 269103111#3              | 38.0      | OK      
+DEL_RIO        | Privado   | 118664605                | 74.0      | OK      
+
+----------------------------------------------------------------------------------------------
+VALIDACION T2.1
+----------------------------------------------------------------------------------------------
+  Hospitales registrados             : 7
+  Hospitales a menos de 150 m        : 7/7
+  Distancia maxima                   : 135.56 m
+  [OK] T2.1 APROBADA: todos los hospitales cumplen.
+  CSV: F2-T2.1-HOSPITALES_ubicaciones.csv
+
+==============================================================================================
+                              F2 - T2.2 | FLOTA Y DISPONIBILIDAD                              
+==============================================================================================
+  Generando ambulancias con semilla 42...
+  Hospitales publicos: 1 a 3 unidades.
+  Hospitales privados: 0 a 1 unidad.
+
+----------------------------------------------------------------------------------------------
+TABLA 2.2 - INVENTARIO INICIAL
+----------------------------------------------------------------------------------------------
+Hospital         | Tipo       | Stock   | Ambulancias                 
+----------------------------------------------------------------------
+VCM              | Publico    | 3       | U01, U02, U03               
+IESS_JCA         | Publico    | 1       | U04                         
+MILITAR          | Publico    | 1       | U05                         
+MUNI_PAT         | Publico    | 3       | U06, U07, U08               
+MUNI_VALLE       | Publico    | 2       | U09, U10                    
+MONTE_SINAI      | Privado    | 0       | SIN UNIDADES                
+DEL_RIO          | Privado    | 0       | SIN UNIDADES                
+
+----------------------------------------------------------------------------------------------
+VALIDACION T2.2
+----------------------------------------------------------------------------------------------
+  Total de ambulancias               : 10
+  Semilla utilizada                  : 42
+  Probabilidad de rechazo            : 25 %
+  Politica de inventario             : FIFO (deque)
+  Hospitales sin unidades            : 2
+  Lista de hospitales sin stock      : MONTE_SINAI, DEL_RIO
+  [OK] T2.2 APROBADA: stock dentro de los rangos.
+  La probabilidad de rechazo se utilizara en los despachos de F4.
+  CSV: F2-T2.2-FLOTA_inicial.csv
+
+----------------------------------------------------------------------------------------------
+EJECUCION DE LA SIMULACION
+----------------------------------------------------------------------------------------------
+  Despacho programado en t=120 s.
+
+==============================================================================================
+                               F2 - T2.3 | PRUEBA DE AMBULANCIA                               
+==============================================================================================
+
+----------------------------------------------------------------------------------------------
+DATOS DE LA MISION
+----------------------------------------------------------------------------------------------
+  Unidad despachada                  : U01
+  Origen                             : Vicente Corral Moscoso
+  Destino                            : Jose Carrasco Arteaga
+  Segundo de despacho                : 120 s
+  Aristas de la ruta                 : 34
+  Distancia estimada                 : 6238.19 m
+  ETA estimada                       : 334.23 s
+  [OK] Despacho solicitado correctamente.
+  Ambulancia insertada en t=121 s.
+
+----------------------------------------------------------------------------------------------
+RESULTADOS DE LA MISION
+----------------------------------------------------------------------------------------------
+  Unidad                             : U01
+  Tiempo de despacho                 : 120 s
+  Tiempo de insercion                : 121 s
+  Tiempo de llegada                  : 540 s
+  Tiempo estimado (ETA)              : 334.23 s
+  Tiempo real                        : 420.00 s
+  Diferencia real - ETA              : +85.77 s
+  Variacion respecto a ETA           : +25.66 %
+
+----------------------------------------------------------------------------------------------
+VALIDACION T2.3
+----------------------------------------------------------------------------------------------
+  [OK] La ambulancia llego al hospital destino.
+  [OK] La ruta y los tiempos fueron registrados.
+  CSV: F2-T2.3-AMBULANCIA_prueba.csv
+  Unidad incorporada al inventario del IESS (retorno logico de prueba).
+
+==============================================================================================
+                                    RESUMEN FINAL | FASE 2                                    
+==============================================================================================
+Tarea      | Descripcion                              | Estado         
+-----------------------------------------------------------------------
+T2.1       | Ubicacion de 7 hospitales                | COMPLETADA     
+T2.2       | Flota inicial aleatoria                  | COMPLETADA     
+T2.3       | Recorrido VCM - IESS                     | COMPLETADA     
+
+----------------------------------------------------------------------------------------------
+ARCHIVOS GENERADOS
+----------------------------------------------------------------------------------------------
+  [OK] F2-T2.1-HOSPITALES_ubicaciones.csv
+  [OK] F2-T2.2-FLOTA_inicial.csv
+  [OK] F2-T2.3-AMBULANCIA_prueba.csv
+
+  [OK] FASE 2: TODAS LAS TAREAS COMPLETADAS.
+==============================================================================================
+Simulation ended at time: 540.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 1.37s
+ TraCI-Duration: 0.53s
+ Real time factor: 394.449
+ UPS: 41770.635500
+Vehicles: 
+ Inserted: 236 (Loaded: 268)
+ Running: 180
+ Waiting: 0
+Teleports: 0 (Collisions: 1)
+Statistics (avg):
+ RouteLength: 2964.62
+ Speed: 10.91
+ Duration: 272.80
+ WaitingTime: 16.46
+ TimeLoss: 55.50
+ DepartDelay: 0.20
+
+DijkstraRouter answered 1 queries and explored 1465.00 edges on average.
+DijkstraRouter spent 0.00s answering queries (3.00ms on average).

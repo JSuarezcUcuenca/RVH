@@ -1,0 +1,41 @@
+
+<configuration>
+    <input>
+        <net-file value="cuenca_ciudad.net.xml"/>
+        <route-files value="fondo_car.rou.xml,fondo_bus.rou.xml,fondo_moto.rou.xml"/>
+        <additional-files value="vtypes.add.xml,macro.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="12600"/>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="-1"/>
+        <time-to-teleport.disconnected value="-1"/>
+
+        <collision.action value="warn"/>
+        <collision.check-junctions value="true"/>
+        <collision.mingap-factor value="0"/>
+
+        <ignore-route-errors value="true"/>
+        <ignore-junction-blocker value="60"/>
+    </processing>
+
+    <report>
+        <verbose value="true"/>
+        <duration-log.statistics value="true"/>
+    </report>
+
+    <output>
+        <tripinfo-output value="resultados/salida/F1-T1.3-TRIPINFO.xml"/>
+        <collision-output value="resultados/salida/F1-T1.3-COLISIONES.xml"/>
+        <statistic-output value="resultados/salida/F1-T1.3-ESTADISTICAS.xml"/>
+    </output>
+
+    <random_number>
+        <seed value="42"/>
+    </random_number>
+</configuration>
