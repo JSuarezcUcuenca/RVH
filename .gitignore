@@ -1,28 +1,10 @@
-# Archivos temporales Python
 __pycache__/
 *.pyc
 .venv/
-
-# Archivos temporales
-*.tmp
-*.bak
-*.swp
-
-# Salidas grandes de SUMO
-*.fcd.xml
-*.fcd.xml.gz
-
-# Red original de gran tamaño
-red_original/cuenca_net.xml
-
-# Archivos de construcción de LaTeX
-*.aux
-*.out
-*.toc
-*.synctex.gz
-*.fls
-*.fdb_latexmk
-
-# Configuraciones privadas
 .env
 .env.*
+red_original/cuenca_net.xml
+*.aux
+*.synctex.gz
+*.fdb_latexmk
+*.fls
