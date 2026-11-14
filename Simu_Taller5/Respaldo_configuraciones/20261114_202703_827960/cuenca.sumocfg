@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <input>
+    <net-file value="zona_final.net.xml"/>
+    <!--<route-files value="cuenca_mixed.rou.xml"/>-->
+    <!--<routes value="viajes_od.trips.xml"/>-->
+    <!--<route-files value="cuenca_3800.rou.xml"/>-->
+    <!--<additional-files value="cuenca.poly.xml"/>-->
+    <!--<additional-files value="cuenca.poly.xml,distritos.add.xml"/>-->
+    <!--<routes value="viajes_od_mixed.trips.xml"/>-->
+    <route-files value="viajes_od_mixed_24h.trips.xml"/>
+    <additional-files value="cuenca.add.xml,cuenca.poly.xml,distritos.add.xml,vtypes.add.xml"/>
+  </input>
+
+  <processing>
+    <ignore-route-errors value="true"/>
+  </processing>
+
+  <time>
+    <begin value="0"/>
+    <end value="86400"/>
+    <step-length value="1"/>
+  </time>
+
+  <output>
+    <emission-output value="co2.xml"/>
+    <fcd-output value="fcd.xml"/>
+    <tripinfo-output value="tripinfo.xml"/>
+    <summary-output value="summary.xml"/>
+  </output>
+
+  <emissions>
+    <device.emissions.probability value="1"/>
+  </emissions>
+</configuration>

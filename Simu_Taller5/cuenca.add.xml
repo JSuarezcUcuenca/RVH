@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+    <edgeData
+        id="densidad_3800"
+        file="Simulacion/T5_3800_20261114_202703_827960/edgedata.xml"
+        freq="3600"/>
+
+    <edgeData
+        id="emisiones_3800"
+        type="emissions"
+        file="Simulacion/T5_3800_20261114_202703_827960/emissions.xml"
+        freq="3600"/>
+</additional>

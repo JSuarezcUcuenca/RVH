@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <input>
+        <net-file value="zona_final.net.xml"/>
+        <route-files value="Teleportings/cuenca_3800.rou.xml"/>
+        <additional-files value="cuenca.add.xml"/>
+    </input>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+        <time-to-teleport value="60"/>
+    </processing>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+        <step-length value="1"/>
+    </time>
+
+    <output>
+        <tripinfo-output value="Simulacion/T5_3800_20261114_202703_827960/tripinfo.xml"/>
+        <fcd-output value="Simulacion/T5_3800_20261114_202703_827960/fcd.xml"/>
+        <amitran-output value="Simulacion/T5_3800_20261114_202703_827960/trajectories.xml"/>
+        <emission-output value="Simulacion/T5_3800_20261114_202703_827960/co2.xml"/>
+        <summary-output value="Simulacion/T5_3800_20261114_202703_827960/summary.xml"/>
+    </output>
+
+    <emissions>
+        <device.emissions.probability value="1"/>
+    </emissions>
+
+    <report>
+        <log value="Simulacion/T5_3800_20261114_202703_827960/ejecucion.log"/>
+        <duration-log.statistics value="true"/>
+        <no-warnings value="false"/>
+    </report>
+</configuration>
